@@ -3,7 +3,7 @@
 ## 💬Description
 This project is a website created for users to be able to search weather data for multiple cities.
 
-## 📓Table of Contents
+<br>## 📓Table of Contents</br>
 * [Purpose](#purpose)
 * [Mock Up](#mock-up)
 * [Built With](#built_with)
