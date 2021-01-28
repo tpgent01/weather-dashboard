@@ -50,8 +50,7 @@ The user should clone the repository from GitHub and open up the project in the 
 ## 💻Website
 Please view deployed application at [Weather Dashboard](https://tpgent01.github.io/weather-dashboard/).
 
-<br>![](website-1.gif)</br>
-<br>![](website-2.gif)</br>
+<br>![](website.gif)</br>
 
 
 ## 📌Contributing
